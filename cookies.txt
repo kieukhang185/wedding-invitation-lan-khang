@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thiepcuoionline.store	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.thiepcuoionline.store	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.thiepcuoionline.store	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2025-02-13 13:58:14.87442576 +0000 UTC m=+4081940.947469945"
+www.thiepcuoionline.store	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	36c7a296-4ad7-48bf-6a36-c19d9a4578a8
+
