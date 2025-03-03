@@ -1,0 +1,17 @@
+body {
+    direction: ltr;
+}
+
+.ladi-wraper {
+    margin: 0 auto;
+    width: 420px;
+}
+
+@font-face {
+    font-family: "RGFuYluZNjcmlwdCWYXJpYWJsZUZvbnRfddodCdGY";
+    src: url("https://w.ladicdn.com/649952cebea082001197be12/dancingscript-variablefont_wght-20240104052414-zwhfs.ttf") format("truetype");
+}
+
+body {
+    font-family: "Open Sans", sans-serif
+}
