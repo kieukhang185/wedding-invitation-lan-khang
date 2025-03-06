@@ -297,7 +297,7 @@
 
 #HEADLINE8,
 #HEADLINE9 {
-    width: 160px;
+    width: 170px;
 }
 
 #HEADLINE8 {
@@ -307,8 +307,8 @@
 
 #HEADLINE8>.ladi-headline,
 #HEADLINE9>.ladi-headline {
-    font-family: Oswald, sans-serif;
-    font-size: 16px;
+    font-family: "Andada Pro", sans-serif;
+    font-size: 15px;
     line-height: 1.6;
     color: rgb(0, 0, 0);
     text-align: center;
@@ -346,18 +346,19 @@
     height: 69px;
     top: 0px;
     /* left: 29px; */
-    left: 10px;
+    left: 5px;
 }
 
 #HEADLINE10,
 #HEADLINE13 {
     width: 63px;
+    font-family: "Adamina", sans-serif;
 }
 
 #HEADLINE10 {
     top: 0px;
     /* left: 44.5px; */
-    left: 80px;
+    left: 70px;
 }
 
 #HEADLINE12 {
@@ -366,7 +367,8 @@
 
 #HEADLINE12>.ladi-headline,
 #HEADLINE14>.ladi-headline {
-    font-family: RGFuYluZNjcmlwdCWYXJpYWJsZUZvbnRfddodCdGY;
+    /* font-family: RGFuYluZNjcmlwdCWYXJpYWJsZUZvbnRfddodCdGY; */
+    font-family: 'Allura';
     font-size: 23px;
     line-height: 1.6;
     color: rgb(0, 0, 0);
@@ -391,7 +393,7 @@
 
 #HEADLINE13 {
     top: 0px;
-    left: 85px;
+    left: 70px;
     /* left: 85px; */
 }
 
@@ -1010,7 +1012,7 @@
 #HEADLINE18 {
     width: 215px;
     top: 427.718px;
-    left: 105.5px;
+    left: 120.5px;
 }
 
 #HEADLINE18>.ladi-headline {
@@ -1083,7 +1085,7 @@
 #HEADLINE23 {
     width: 294px;
     top: 533.338px;
-    left: 64px;
+    left: 78px;
 }
 
 #IMAGE10 {
