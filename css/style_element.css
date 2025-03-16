@@ -14,12 +14,12 @@
 #HEADLINE3 {
     width: 319px;
     top: 33.8px;
-    left: 50.5px;
+    left: 60px;
 }
 
 #HEADLINE3>.ladi-headline {
     font-family: "Mea Culpa", cursive;
-    font-size: 32px;
+    font-size: 29px;
     font-weight: bold;
     line-height: 1.6;
     color: rgb(255, 255, 255);
