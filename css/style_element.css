@@ -3,7 +3,7 @@
 }
 
 #SECTION1>.ladi-section-background {
-    background-image: url("../image/1.jpg");
+    background-image: url("../image/IMG_9181.JPG");
     background-size: cover;
     background-origin: content-box;
     background-position: 50% 0%;
@@ -18,7 +18,7 @@
 }
 
 #HEADLINE3>.ladi-headline {
-    font-family: "Dancing Script", cursive;
+    font-family: "Mea Culpa", cursive;
     font-size: 32px;
     font-weight: bold;
     line-height: 1.6;
@@ -50,14 +50,14 @@
 
 #HEADLINE4 {
     width: 182px;
-    top: 0px;
-    left: 39px;
+    top: 10px;
+    left: 60px;
 }
 
 #HEADLINE4>.ladi-headline,
 #HEADLINE10>.ladi-headline,
 #HEADLINE13>.ladi-headline {
-    font-size: 18px;
+    font-size: 13.5px;
     line-height: 1.6;
     color: rgb(0, 0, 0);
     text-align: left;
@@ -399,7 +399,6 @@
 
 #HEADLINE14 {
     width: 211px;
-
     margin-left: 40px;
 }
 
@@ -510,7 +509,7 @@
 }
 
 #IMAGE26>.ladi-image>.ladi-image-background {
-    background-image: url("../image/30.jpg");
+    background-image: url("../image/17.jpg");
 }
 
 /* #IMAGE26>.ladi-image {
@@ -752,7 +751,7 @@
 }
 
 #IMAGE14>.ladi-image>.ladi-image-background {
-    background-image: url("../image/26.jpg");
+    background-image: url("../image/40.jpg");
 }
 
 #IMAGE14.ladi-animation>.ladi-image,
@@ -852,7 +851,7 @@
 }
 
 #IMAGE23>.ladi-image>.ladi-image-background {
-    background-image: url("../image/5.jpg");
+    background-image: url("../image/17_1.jpg");
 }
 
 #IMAGE23.ladi-animation>.ladi-image {
@@ -963,7 +962,7 @@
 }
 
 #IMAGE7>.ladi-image>.ladi-image-background {
-    background-image: url("../image/16.jpg");
+    background-image: url("../image/IMG_9179.JPG");
 }
 
 #IMAGE7.ladi-animation>.ladi-image {
@@ -979,7 +978,7 @@
 }
 
 #IMAGE8>.ladi-image>.ladi-image-background {
-    background-image: url("../image/15.jpg");
+    background-image: url("../image/IMG_9178.JPG");
 }
 
 #IMAGE9 {
@@ -992,7 +991,7 @@
 #IMAGE9>.ladi-image>.ladi-image-background {
     width: 167.977px;
     height: 245.925px;
-    background-image: url("../image/28.jpg");
+    background-image: url("../image/IMG_9177.JPG");
 }
 
 #HEADLINE17 {
